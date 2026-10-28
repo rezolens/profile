@@ -204,7 +204,7 @@ A Progressive Web App boilerplate with service worker, manifest, offline support
 ### &#x1F9E9; WordPress &amp; PHP
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,elementor" alt="WordPress" />
+  <img src="https://skillicons.dev/icons?i=wordpress,php,mysql" alt="WordPress" />
 </a>
 
 <br/>
@@ -258,13 +258,6 @@ A Progressive Web App boilerplate with service worker, manifest, offline support
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rezolens&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=F97316&fire=F97316&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Streak" width="60%" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rezolens&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophy" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rezolens&theme=tokyo-night&bg_color=0D1117&hide_border=true&point=F97316&line=3B82F6&area=true&area_color=3B82F6&custom_title=%F0%9F%93%88%20Contribution%20Activity" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -289,11 +282,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities.
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
-
-<br/><br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&border=false&bgColor=0D1117" alt="Dev Joke" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
 
 <br/><br/>
 
